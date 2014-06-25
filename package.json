@@ -1,0 +1,20 @@
+{
+    "name": "load-meter",
+    "version": "0.0.1",
+    "description": "distributed load testing tool",
+    "author": "Ömer ÜCEL <omerucel@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/omerucel/load-meter"
+    },
+    "dependencies": {
+        "underscore": "1.6.0",
+        "minimist": "0.2.0",
+        "async": "0.2.5",
+        "restify": "2.8.1",
+        "socket.io": "1.0.6",
+        "socket.io-client": "1.0.6",
+        "request": "2.36.0"
+    },
+    "licence": "MIT"
+}

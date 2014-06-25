@@ -1,0 +1,12 @@
+{
+    "task1" : {
+        "script": "sample-tasks/task1.js",
+        "numUsers": 1,
+        "targetRps": 1
+    },
+    "task2" : {
+        "script": "sample-tasks/task2.js",
+        "numUsers": 1,
+        "targetRps": 1
+    }
+}
